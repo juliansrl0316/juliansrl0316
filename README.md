@@ -3,7 +3,7 @@
    <h2 align="center">¡Hola! Soy Julian Ramirez</h2>
 </p>
 
-/*
+
 <p align="center" style="font-size:15;"><strong>Desarrollador BackEnd</strong> apasionado por la tecnologia.<br /> Me especializo en aplicaciones desarrolladas con <strong> Java</strong></p>
 
 ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
