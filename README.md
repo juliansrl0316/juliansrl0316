@@ -27,7 +27,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
 
-### ¿Quieres conocer algunos de mis proyectos? 🗃
+### Estos son algunos de mis proyectos 🗃
 
 <a href='https://github.com/iRetray/moviefind' target='_blank'>
   <img width='32%' src='https://raw.githubusercontent.com/iRetray/iretray/master/moviefind.png' alt='MovieFind - Buscador de películas y series' />
